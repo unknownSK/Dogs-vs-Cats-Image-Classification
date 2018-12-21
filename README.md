@@ -4,7 +4,7 @@ This is a Convolutional Neural Network (CNN) which is written in python language
 
 # Simple Image Classification using CNN — Deep Learning in python
 
-The process of building a Convolutional Neural Network always involves four major steps. 
+The process of building a Convolutional Neural Network always involves four major steps. </br>
 Step 1: Convolution 
 Step 2: Pooling 
 Step 3: Flattening 
