@@ -8,7 +8,7 @@ The process of building a Convolutional Neural Network always involves four majo
 Step 1: Convolution </br>
 Step 2: Pooling </br>
 Step 3: Flattening </br>
-Step 4: Full connection 0</br>
+Step 4: Full connection </br>
 
 # Description:
 
