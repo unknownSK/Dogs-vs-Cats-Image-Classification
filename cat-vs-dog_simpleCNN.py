@@ -46,7 +46,7 @@ model.compile(loss='binary_crossentropy',
               metrics=['accuracy'])
 
 
-print(model.summary())
+print(model.summary()) 
 
 train_datagen = ImageDataGenerator(
     rescale=1. / 255,
